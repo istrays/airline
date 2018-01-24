@@ -1,15 +1,14 @@
 # airline
 
-#about
+# about
 This is the small console application “Airline”, made as a entry task for GL Java ProCamp.
 The application is about airline company that stores aircraft.
 
-#installation
+# quick start
 Download the airline-1.0-SNAPSHOT.jar file.
 To start the application you should use the Java launcher (java command).
-The command for running the application: java -jar airline-1.0-SNAPSHOT.jar
 
-#quick start
+The command for running the application: java -jar airline-1.0-SNAPSHOT.jar
 After you start the application, it will show you airline's aircraft sorted by flight range.
 
 There are several available commands:
